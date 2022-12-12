@@ -1,4 +1,4 @@
-"","Serial","Date_Time","Temperature_C","Light_Lux","Date","Year","Month","Day","Hour","Minute","AMPM","Time.Decimal"
+"Key","Serial","Date_Time","Temperature_C","Light_Lux","Date","Year","Month","Day","Hour","Minute","AMPM","Time.Decimal"
 "73",20685432,"11/24/22 12:00:00 AM",1.439,0,2022-11-24,2022,11,24,12,0,"AM",12
 "74",20685432,"11/24/22 12:30:00 AM",1.98,0,2022-11-24,2022,11,24,12,30,"AM",12.5
 "75",20685432,"11/24/22 01:00:00 AM",1.764,0,2022-11-24,2022,11,24,1,0,"AM",1
